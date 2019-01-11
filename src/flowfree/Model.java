@@ -18,7 +18,7 @@ public class Model {
         this.view = view;
     }
     
-    public void goTolevel(int l) {
+    public void goToLevel(int l) {
         Level level = levels.getLevel(l);
         view.draw(level);
     }

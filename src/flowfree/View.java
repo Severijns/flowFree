@@ -23,6 +23,7 @@ public class View extends Pane{
     }
 
     public void draw(Level level) {
+        getChildren().clear();
         int size = level.getSizeGrid();
         
         for (int y = 0; y < size; y++) {
