@@ -44,12 +44,12 @@ public class FXMLFlowBoardController {
         model = new Model(view);
         
         pane.getChildren().add(view);
-        model.goTolevel(0);
+        model.goToLevel(0);
         //view.setOnKeyPressed(this::move);
         view.setFocusTraversable(true);
         view.requestFocus();
-        //btnlvl1.setOnAction(evt -> move());
-        //btnlvl2.setOnAction(evt -> level2());
+        btnlvl1.setOnAction(evt -> model.goToLevel(0));
+        btnlvl2.setOnAction(evt -> model.goToLevel(1));
        
     }    
     /*private void move(){
