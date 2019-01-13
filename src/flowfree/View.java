@@ -33,6 +33,7 @@ public class View extends Pane{
             for (int x = 0; x < size; x++) {
                 Rectangle r = new Rectangle(x*(500/size)+5, y*(500/size)+5,(500-size)/size, (500-size)/size);
                 r.setFill(Color.BLACK);
+                r.setStroke(Color.GREY);
                 getChildren().add(r);
             }
         }

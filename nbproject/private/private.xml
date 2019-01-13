@@ -4,9 +4,14 @@
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
             <file>file:/C:/Users/GESE/Documents/IIW1/Java/NetBeans/FlowFree/src/flowfree/View.java</file>
+            <file>file:/C:/Users/GESE/Documents/IIW1/Java/NetBeans/FlowFree/src/flowfree/Model.java</file>
+            <file>file:/C:/Users/GESE/Documents/IIW1/Java/NetBeans/FlowFree/src/flowfree/Levels.java</file>
+            <file>file:/C:/Users/GESE/Documents/IIW1/Java/NetBeans/FlowFree/src/levels.json</file>
             <file>file:/C:/Users/GESE/Documents/IIW1/Java/NetBeans/FlowFree/src/flowfree/FlowFree.java</file>
+            <file>file:/C:/Users/GESE/Documents/IIW1/Java/NetBeans/FlowFree/src/flowfree/FXMLFlowBoard.fxml</file>
+            <file>file:/C:/Users/GESE/Documents/IIW1/Java/NetBeans/FlowFree/src/flowfree/Combination.java</file>
             <file>file:/C:/Users/GESE/Documents/IIW1/Java/NetBeans/FlowFree/src/flowfree/FXMLFlowBoardController.java</file>
-            <file>file:/C:/Users/GESE/Documents/IIW1/Java/NetBeans/FlowFree/build/classes/flowfree/FXMLFlowBoard.fxml</file>
+            <file>file:/C:/Users/GESE/Documents/IIW1/Java/NetBeans/FlowFree/src/flowfree/Level.java</file>
         </group>
     </open-files>
 </project-private>
